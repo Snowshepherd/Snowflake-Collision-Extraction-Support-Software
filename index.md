@@ -9,7 +9,7 @@ snowflake collision events from snowfall videos.
 
 The software is available for Windows. 
 
-[Download the latest release] 
+[Download Snowflake Collision Software v1.0.0](https://github.com/Snowshepherd/Snowflake-Collision-Extraction-Support-Software/releases/download/v1.0.0/SnowflakeCollisionSoftware_Public.Version.1.0.0.zip)
 
 ## Requirements 
 
