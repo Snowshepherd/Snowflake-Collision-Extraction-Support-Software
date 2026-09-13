@@ -43,5 +43,3 @@ Final identification of collision events requires visual verification.
 Version 1.0.0 
 
 ## Contact 
-
-gmail
